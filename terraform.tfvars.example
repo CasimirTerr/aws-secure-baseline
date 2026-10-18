@@ -1,0 +1,6 @@
+alert_email        = "you@example.com"
+monthly_budget_usd = 10
+
+# flip these to false if you only want the free stuff
+enable_config      = true
+enable_securityhub = true
