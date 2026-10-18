@@ -1,0 +1,11 @@
+# terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfplan
+
+# my actual values, not for github
+terraform.tfvars
+backend.hcl
